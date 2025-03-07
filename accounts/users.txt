@@ -1,1 +1,1 @@
-admin = Aa1955Aa
+admin=Aa1955Aa
